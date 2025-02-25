@@ -33,3 +33,6 @@ console.log(setup); // prints "What kind of music do planets listen to?" to the 
 console.log(punchline); // prints "Nep-tunes." to the console
 ```
 
+## UML Diagram
+
+![uml-diagram](./UML.png)
